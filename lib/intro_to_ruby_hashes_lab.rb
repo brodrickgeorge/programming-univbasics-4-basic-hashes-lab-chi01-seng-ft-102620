@@ -1,4 +1,4 @@
-def new_hash => {"instantiating"}
+def new_hash => {}
   
  
 end
