@@ -4,7 +4,7 @@ def new_hash
  end
 
 def my_hash
-  candy = {yum "skittles"}
+  candy = {"yum" => "skittles"}
 end
 
 def pioneer
